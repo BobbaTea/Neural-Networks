@@ -10,3 +10,4 @@ It is a repurposable neural network that can be scaled to derive patterns and ov
 ## How does it work
 The fundamentals of this neural network boils down to using dot products to forward propagate the neural network. The error/cost function (difference from expected result) is then calculated and partial derivatives of the cost to various weights and biases throughout the net are used to tweak these variables. 
 View the output.txt file to see an example of the outputted data. The "Time" attribute gives the runtime of the forward and back propagation methods. It is followed by the number of iterations of learning and propagating. Then the inputs are displayed along with the expected output. Finally the actual output from the network and the error are shown. 
+It is evident that overtime (over iterations) the error rate value is decreasing and the predicted answers are moving from random and sporatic to closer to the expected value.
