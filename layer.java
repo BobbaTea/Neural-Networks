@@ -1,5 +1,3 @@
-package feedforward;
-
 import java.util.ArrayList;
 
 //class for layers of neurons
