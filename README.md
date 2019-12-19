@@ -1,7 +1,7 @@
 # Neural-Networks
 
 ## Background
-I completed this project in my freshman year (last year) and at the time started with the goal of achieving fluency with deep learning basics, and with feed forward neural networks. I have recently continued working and revising to refine the efficiency of the code. Some of the changes have been to port the original code from c++ to Java.
+I completed this project in my freshman year (two years ago) and at the time started with the goal of achieving fluency with deep learning basics, and with feed forward neural networks. I have recently continued working and revising to refine the efficiency of the code. Some of the changes have been to port the original code from c++ to Java.
 
 ## What is it
 This is a feed-forward neural network utilizing back-propagation (gradient descent) as its primary learning algorithm. Written from scratch it doesn't make use of any open-source code or third party resources(TensorFlow, Keras, etc). 
